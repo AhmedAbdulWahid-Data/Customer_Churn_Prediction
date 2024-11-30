@@ -1,6 +1,6 @@
 # **🚀 Churn Prediction Model - The Ultimate Battle of Algorithms ⚔️**
 
-Welcome to the **Churn Prediction Model** project! 🎉 Here, we've created a machine learning powerhouse by implementing churn prediction in **3 epic ways**: using **Scikit-Learn**, **PySpark**, and **PyTorch**. Whether you're into traditional machine learning, distributed computing, or deep learning wizardry, we've got you covered. 🔥
+Welcome to the **Churn Prediction Model** project! 🎉 Here, I've created a machine learning powerhouse by implementing churn prediction in **3 epic ways**: using **Scikit-Learn**, **PySpark**, and **PyTorch**. Whether you're into traditional machine learning, distributed computing, or deep learning wizardry, we've got you covered. 🔥
 
 The goal? To predict customer churn **(aka whether a customer will stick around or bounce)** and save businesses from losing their most valuable customers. 💡
 
