@@ -18,11 +18,3 @@ This repo takes a deep dive into customer churn prediction using three methods:
 
 If you're a business owner or data scientist, predicting churn is a game-changer! Know who’s at risk of leaving, and target your efforts to save them. The models built in this repo help businesses gain insights into their customers and boost retention. 🙌
 
-
-## 🛠️ Quick Start Guide
-
-1.	Download the Repository:
-Click the green Code button at the top of this page, then select Download ZIP.
-2.	Extract the ZIP File:
-After downloading, extract the contents to your preferred folder.
-
