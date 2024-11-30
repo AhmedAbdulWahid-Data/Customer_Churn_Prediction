@@ -9,7 +9,7 @@ The goal? To predict customer churn **(aka whether a customer will stick around 
 
 This repo takes a deep dive into customer churn prediction using three methods:
 
-1. **Scikit-Learn**: The classic workhorse of machine learning, featuring **Decision Trees** and **Random Forest** for model training. 🌳🐾
+1. **Scikit-Learn**: The classic workhorse of machine learning, featuring **Decision Trees**, **XGBoost** and **Random Forest** for model training. 🌳🐾
 2. **PySpark**: Supercharge your models with the power of distributed computing! Here we use **Logistic Regression** for churn prediction at scale. ⚡
 3. **PyTorch**: Because deep learning isn’t just a buzzword – we build a **Neural Network** for churn prediction like a pro. 🤖💥
 
