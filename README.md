@@ -4,6 +4,9 @@ Welcome to the **Churn Prediction Model** project! 🎉 Here, I've created a mac
 
 The goal? To predict customer churn **(aka whether a customer will stick around or bounce)** and save businesses from losing their most valuable customers. 💡
 
+## You can download my Churn Analysis Guide with SQL 👉 [Here! 📂](https://github.com/user-attachments/files/19521878/Churn.Analysis.SQL.pdf)
+
+---
 
 ## 🌟 What’s Inside? 🤔
 
